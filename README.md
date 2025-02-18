@@ -1,5 +1,5 @@
 # Personal-Projects
-A list of personal projects of mine.
+A list of personal projects of mine:
 
 
 <ul>
