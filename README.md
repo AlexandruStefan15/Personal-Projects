@@ -11,5 +11,5 @@ A list of personal projects of mine:
 
 ## Real projects
 <ul>
-  <li><a href="https://github.com/AlexandruStefan15/E-Learning-Platform"></a></li>
+  <li><a href="https://github.com/AlexandruStefan15/E-Learning-Platform">E-Learning Platform</a></li>
 </ul>
