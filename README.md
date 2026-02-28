@@ -9,7 +9,7 @@ A list of personal projects of mine:
 <li><a href='#'>Food Delivery Platform</a> ( ⚠Coming soon ) </li>
 </ul>
 
-## Real projects
+# Real projects
 <ul>
   <li><a href="https://github.com/AlexandruStefan15/E-Learning-Platform">E-Learning Platform</a></li>
 </ul>
