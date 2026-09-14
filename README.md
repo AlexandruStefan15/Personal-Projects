@@ -6,7 +6,7 @@ A list of personal projects of mine:
 <li><a href='https://github.com/AlexandruStefan15/Travel-agency-website'> Travel Agency Website </a></li>
 <li><a href='https://github.com/AlexandruStefan15/Netflix-Clone'>Netflix Clone</a></li>
 <li><a href='https://github.com/AlexandruStefan15/Food-Delivery-App'>Food Delivery Platform</a></li>
- <li><a href='https://github.com/AlexandruStefan15/Bilete-Smart'>Event Ticketing Mobile App</a></li>
+ <li><a href='https://github.com/AlexandruStefan15/BileteSmart'>Event Ticketing Mobile App</a></li>
 </ul>
  
 # Real projects
